@@ -5,3 +5,10 @@ This project aims to predict car prices using various regression algorithms, inc
 ## Project Overview
 * Dataset Selection:
   * Selected a dataset from a predictive modeling competition, considering current car market trends.
+
+*Data Preprocessing:
+ *Checked the data types of each variable.
+ *Identified and handled missing values and outliers.
+ *Dropped unnecessary or redundant data.
+ *Finalized the columns to be used for modeling.
+
