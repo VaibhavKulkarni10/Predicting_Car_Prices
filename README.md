@@ -4,4 +4,4 @@ This project aims to predict car prices using various regression algorithms, inc
 
 ## Project Overview
 * Dataset Selection:
-*   Selected a dataset from a predictive modeling competition, considering current car market trends.
+  * Selected a dataset from a predictive modeling competition, considering current car market trends.
