@@ -8,7 +8,12 @@ This project aims to predict car prices using various regression algorithms, inc
 
 * Data Preprocessing:
   * Checked the data types of each variable.
- * Identified and handled missing values and outliers.
- * Dropped unnecessary or redundant data.
- * Finalized the columns to be used for modeling.
+  * Identified and handled missing values and outliers.
+  * Dropped unnecessary or redundant data.
+  * Finalized the columns to be used for modeling.
+
+* Data Visualization:
+  * Used various plots (barplot, boxplot, histogram, etc.) to understand data insights.
+  * Analyzed trends such as the price hike starting from the year 2000 and the demand for Jeep cars.
+  * Examined the impact of amenities on car production.
 
